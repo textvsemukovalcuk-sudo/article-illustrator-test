@@ -101,6 +101,7 @@ status: prompts-ready
 
 ## Файлы промптов
 
+- [Индекс и параметры всех промптов](prompts/README.md)
 - `prompts/01-infographic-main-connection.md`
 - `prompts/02-infographic-human-and-soul.md`
 - `prompts/03-infographic-giving-without-debt.md`
